@@ -1,0 +1,76 @@
+body{
+    background-color:rgb(56, 182, 204);
+    color:rgb(255, 255, 255);
+    font-family:sans-serif;
+}
+.nav-bg{
+    background-color:rgba(0, 0, 0, 0.438);
+
+}
+.nav-text{
+    color:white !important;
+}
+.list-img{
+    height:150px;
+    width:150px;
+    border-radius: 10px;
+}
+.list-card{
+    padding:10px;
+    margin:10px;
+    max-height:600px;
+    max-width:200px;
+    border-radius: 10px;
+    background-color:rgba(0, 0, 0, 0.438);
+}
+.list-details{
+    padding:10px;
+    list-style-type: none;
+    text-decoration: none;
+    color:white;
+}
+.input{
+    height:40px;
+    width:190px;
+    margin:10px;
+    text-align: center;
+}
+
+table{
+    min-width:400px;
+}
+.desc-img{
+    height:300px;
+    width:300px;
+    border-radius: 10px;
+}
+.desc-card{
+    max-width:1200px;
+    background-color: rgba(0, 0, 0, 0.438);
+    padding:20px;
+    margin:30px;
+    border-radius: 10px;
+}
+.details-card{
+    padding:10px;
+    margin-left:20px;
+    margin-top:40px;
+}
+.login-card{
+    /*  background-color: #f0f0af;
+    color:rgba(36, 32, 32, 0.568);*/
+    background-color: rgba(0, 0, 0, 0.438);
+    max-width:500px;
+    border-radius: 20px;
+    padding:20px;
+    margin:20px;
+}
+.err-msg{
+    color:rgba(138, 9, 9, 0.993);
+    font-size: 14px;
+    font-weight:bold;
+    text-align: center;
+
+}
+
+
